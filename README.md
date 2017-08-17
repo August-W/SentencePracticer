@@ -10,16 +10,16 @@ language;語
 <h7>#</h7>           
 *VERBS   
 to go;行く   
-<h5>#</h5>  
+<h7>#</h7>  
 *ADVERBS   
 usually;大抵   
-<h5>#</h5>  
+<h7>#</h7>  
 *ADJECTIVES   
 delicious;おいしい   
 expensive/high;高い   
-<h5>#</h5> 
+<h7>#</h7> 
 *OTHERS   
 um...;あの。。。   
 yes;   
 P.M.;午後   
-<h5>#</h5>  
+<h7>#</h7>  
