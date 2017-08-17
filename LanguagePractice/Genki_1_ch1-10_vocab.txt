@@ -1,0 +1,562 @@
+﻿*NOUNS
+now;あの
+English language;英語
+student;学生
+language;語
+Japanese language;日本語
+high school;高校
+major;専門
+teacher;先生
+college/university;大学
+telephone;電話
+friend;友達
+name;名前
+Japan;日本
+number;番号
+international student;留学生
+I;私／僕
+U.S.A.;アメリカ
+Britain;イギリス
+Australia;オーストラリア
+Korea;韓国
+Sweden;スウェーデン
+China;中国
+science;科学
+Asian studies;アジア研究
+economics;経済
+international relations;国際関係
+computer;コンピューター
+anthropology;人類学
+politics;政治
+business;ビジネス
+literature;文学
+history;歴史
+job/occupation;仕事
+doctor;医者
+office worker;会社員
+high school student;高校生
+college student;大学生
+lawyer;弁護士
+mother;お母さん
+father;お父さん
+older sister;お姐さん
+older brother;お兄さん
+younger sister;妹
+younger brother;弟
+this one;これ
+that one;それ
+that one (over there);あれ
+here;ここ
+there;そこ
+over there;あそこ
+fish;魚
+pork cutlet;とんかつ
+meat;肉
+menu;メニュー
+vegetable;野菜
+pencil;鉛筆
+umbrella;傘
+bag;かばん
+shoes;靴
+wallet;財布
+jeans;ジーンズ
+dictionary;辞書
+bicycle;自転車
+newspaper;新聞
+T-shirt;チーシャツ
+tape;テープ
+watch/clock;時計
+notebook;ノート
+sweatshirt;トレーナー
+pen;ペン
+hat/cap;帽子
+book;本
+cafe;喫茶店
+bank;銀行
+toilet/restroom;お手洗い
+library;図書館
+post office;郵便局
+yen;円
+movie;映画
+music;音楽
+magazine;雑誌
+sports;スポーツ
+date (romatic);デート
+tennis;テニス
+TV;テレビ
+ice cream;アイスクリーム
+breakfast;朝御飯
+sake/alcohol;お酒
+green tea;お茶
+coffee;コーヒー
+dinner;晩御飯
+hamburger;ハンバーグ
+lunch;昼御飯
+water;水
+home/house;家
+school;学校
+morning;朝
+tomorrow;あした
+today;今日
+tonight;今晩
+weekend;週末
+Saturday;土曜日
+Sunday;日曜日
+every day;毎日
+every night;毎晩
+part-time job;アルバイト
+shopping;買い物
+class;クラス
+you;あなた
+chair;椅子
+dog;犬
+souvenir;お土産
+child;子供
+rice/meal;御飯
+picture/photo;写真
+desk;机
+letter;手紙
+cat;猫
+bread;パン
+person;人
+email;メール
+temple;お寺
+park;公園
+supermarket;スーパー
+department store;デパート
+bus stop;バス停
+hospital;病院
+hotel;ホテル
+bookstore;本屋
+town/city;町
+restaurant;レストラン
+yesterday;昨日
+last week;先週
+Monday;月曜日
+Tuesday;火曜日
+Wednesday;水曜日
+Thursday;木曜日
+Friday;金曜
+sea;海
+postal stamps;切手
+ticket;切符
+surfing;サーフィン
+homework;宿題
+food;食べ物
+birthday;誕生日
+test;テスト
+weather;天気
+drink;飲み物
+postcard;葉書
+bus;バス
+airplane;飛行機
+room;部屋
+I (used by men);僕
+holiday/day off/absence;休み
+travel;旅行
+money;お金
+bath;お風呂
+kanji;漢字
+textbook;きょうかしよ
+this week;こんしゅう
+CD;デイスク
+municipal hospital;しみんびょういん
+shower;
+next;次
+electricity;電気
+train;電車
+baggage;荷物
+personal computer;
+page;ページ
+window;窓
+night;夜
+next week;らいしゅう
+next year;来年
+video game;テレビゲーム
+bath;お風呂
+(my) older syster;姉
+apartment;アパート
+song;歌
+grandfather/old man;おじいさん
+man;男の人
+grandmother/old woman;おばあさん
+woman;女の人
+company;会社
+family;家族
+hair;髪
+brothers and sisters;兄弟
+mouth;くち
+country/place of origin;国
+car;車
+convenience store;コンビニ
+club activity;サークル
+cafeteria;食堂
+(my) father;父
+DVD;デイーブイデイー
+(my) mother;母
+eye;目
+glasses;眼鏡
+one person;一人
+two people;二人
+the day after tomorrow;あさって
+rain;雨
+camera;カメラ
+karaoke;カラオケ
+air;空気
+this morning;今朝
+blackboard;黒板
+this month;今月
+weather forecast;天気お法
+place;所
+tomato;トマト
+summer;夏
+something;何か
+party;パーティー
+barbecue;バーベキュー
+chopsticks;はし
+winter;冬
+homestay;ホームステイ
+every week;毎週
+next month;来月
+good child;いい子
+color;色
+boxed lunch;お弁当
+Kabuki;かぶき
+spa;温泉
+guitar;ギター
+last year;去年
+medicine;薬
+concert;コンサート
+near future;今度
+essay/composition;作文
+exam;試験
+ski;スキー
+last month;先月
+word/vocab;単語
+piano;ピアノ
+pizza;ピーザ
+illness/sickness;病気
+fall;秋
+doctor;医者
+station;駅
+rich person;お金持ち
+face;顔
+season;季節
+milk;牛乳
+credit card;クレジットカード
+cake;ケーキ
+this year;今年
+soccer;サンカー
+shirt;シャツ
+bullet train;新幹線
+sushi;スシ
+life/living;生活
+world;世界
+subway;地下鉄
+gloves;手袋
+tempura;天ぷら
+barber's;床屋
+spring;春
+pants;パンツ
+beauty parlor;美容院
+flight;便
+ship/boat;船
+baseball;野球
+celebrity;有名人
+reservation;予約
+next semester;来学期
+apple;りんご
+#
+*VERBS
+am/is;ます
+to go;行く
+to go back/return;帰る
+to listen/hear;聞く
+to drink;飲む
+to speak/talk;話す
+to read;読む
+to get up;起きる
+to eat;食べる
+to sleep/go to sleep;寝る
+to see/look at/watch;見る
+to come;来る
+to do;する
+to study;勉強する
+to meet;会う
+there is/have/exists (thing);ある
+to buy;買う
+to write;書く
+to take (a picture);撮る
+to wait;待つ
+to understand;わかる
+there is/have/exists (person);いる
+to swim;泳ぐ
+to ask;聞く
+to ride/board;乗る
+to do/perform;やる
+to go out;出かける
+to play/spend time pleasantly;遊ぶ
+to hurry;急ぐ
+to take a bath;お風呂に入る
+to return (a thing);返す
+to turn off/erase;消す
+to die;死ぬ
+to sit down;座る
+to stand up;立つ
+to smoke;タバコを吸い
+to use;つかう
+to help;手伝う
+to enter;入る
+to carry/hold;持つ
+to be absent (from...)/to rest;休む
+to open (something);開ける
+to teach/instruct;教える
+to get off;降りる
+to borrow;借りる
+to close;閉める
+to turn on;つける
+to make a phone call;電話をかける
+to forget/leave behind;忘れる
+to bring (a person);連れてくる
+to bring (a thing);持ってくる
+to sing;歌う
+to put on (a hat);はぶる
+to get to know;知る
+to live;住む
+to put on (items below your waist);はく
+to gain weight;太る
+to be on the heavy side;太っています
+to put on (glasses);眼鏡をかけた
+to put on (clothes above your waist);着る
+to work for;勤める
+to lose weight;やせる
+to be thin;やせています
+to get married;結構する
+it rains;雨が降る
+to wash;洗う
+to say;言う
+to need;いる
+to be late;遅くなる
+to think;思う
+to cut;切る
+to make;作る
+to take (a thing);持っていく
+to stare (at...);じろじろ見る
+to throw away;捨てる
+to begin;始める
+to drive;運転する
+to do laundry;洗濯する
+to clean;掃除する
+to call;電話する
+to cook;料理する
+to take medicine;薬を飲む
+to dance;踊る
+(something) ends;終わる
+to be popular;人気がある
+(something) begins;始まる
+to play (a string instrument or piano);弾く
+to get (from somebody);もらう
+to memorize;覚える
+to appear/to attend/to exit;出る
+to do physical exercises;運動する
+to take a walk;散歩する
+to take (amount of time/money);かかる
+to stay (at a hotel, etc.);泊まる
+to become;なる
+to pay;払う
+to decide;決める
+to travel;旅行する
+to practice;練習する
+#
+*ADVERBS
+not much;あまり+negative
+not at all;全然+negative
+usually;大抵
+a little;ちょっと
+sometimes;時々
+often/much;よく
+alone;一人で
+together;一緒に
+extremely;凄く
+later on;後で
+(do something) late;遅く
+right away;すぐ
+slowly/leisurely/unhurriedly;ゆっくり
+always;何時も
+very;とても
+already;もう
+on foot;歩いて
+(do something) early/fast;早く
+#
+*ADJECTIVES
+this...;この。。。
+that...;その。。。
+that (over there)...;あの。。。
+delicious;おいしい
+expensive/high;高い
+good;いい
+early;早い
+many/a lot;たくさん
+new;新しい
+hot (weather);暑い
+hot (thing);熱い
+busy (people/days);忙しい
+large;大きい
+interesting/funny;面白い
+good-looking;かっこいい
+frightening;怖い
+cold (weather);寒い
+fun;楽しい
+small;小さい
+boring;つまらない
+old (thing);古い
+difficult;難しい
+easy/kind;やさしい
+inexpensive/cheap;安い
+disgusted with/to dislike;嫌い（な）
+beautiful/clean;きれい（な）
+healthy/energetic;元気（な）
+quiet;静か（な）
+fond of/to like;好き（な）
+to hate;大嫌い（な）
+very fond of/to love;大好き（な）
+lively;にぎやか（な）
+handsome;ハンサム（な）
+not busy;暇（な）
+tough (situation);大変（な）
+bright/smart/clever;頭がいい
+cute;かわいい
+tall (stature);背が高い
+short (stature);背が低い
+long;長い
+fast;速い
+short (length);短い
+kind;親切（な）
+convenient;便利（な）
+skillful/good at...;上手（な）
+clumsy/poor at...;下手（な）
+famous;有名（な）
+blue;青い
+red;赤い
+black;黒い
+lonely;寂しい
+white;白い
+young;若い
+mean-spirited;意地悪（な）
+warm;暖かい
+slow/late;遅い
+cool (weather);涼しい
+cold (things/people);冷たい
+sleepy;眠い
+easy/simple;簡単（な）
+#
+*OTHERS
+um...;あの。。。
+yes;はい
+P.M.;午後
+A.M.;午前
+...years old;。。。歳
+Mr./Mrs;さん
+o'clock;時
+That's right;そうです
+I see/Is that so;そうですか
+what;何
+...year student;。。。年生
+half;半
+which one;どれ
+where;どこ
+who;だれ
+how much;いくら
+Welcome (to our store);いらしゃいませ
+...please;。。。おねがいします
+please give me...;。。。ください
+then.../if that is the case,...;じゃあ。。。
+please/here it is;どうぞ
+thank you;どうも
+when;いつ
+at about...;。。。ごろ
+That's right/Let me see;そうですね
+but;でも
+How about.../How is...;どうですか
+...hours;時間
+when (at the time of);時
+about (approximate measurment);。。。ぐらい
+I'm sorry;ごめんあさい
+so/therefore;だから
+together with (a person);と
+why;どうして
+do you understand?;わかりますか
+I understand/understood;わかりました
+I don't understand/know;わかりません
+Please say it slowly;ゆっくりいってください
+Please say it again;もういちどいってください
+Plaese wait;ちょっとまってください
+Please listen/ask;きってください
+and then;それから
+its ok/ not to worry/everything is under control;大丈夫
+very;とても
+what kind of...;どんな
+[counter for flat objects];枚
+to (a place)/as far as (a place)/until (a time);まで
+because...;。。。から
+that would be fine/that wouldn't be necessary;結構です
+right away;すぐ
+really?;本当ですか
+I know;知っています
+I don't know;知りません
+but;　が
+not... anything;何も+negative
+[counter for people];人
+nothing in particular;別に+negative
+Hello? (on phone);もしもし
+of course;もちろん
+if you like;よかったら
+uh-uh/no;ううん
+uh-huh/yes;うん
+Cheers!;乾杯
+that's too bad;残念（ですね）
+about.../concerning...;に就いて
+not... yet;まだ+negative
+all (of the people) together;みんあで
+from...;から
+by all means;ぜひ
+by the way;ところで
+all;みんな
+best;一番
+or;か
+for... months;か月
+in... time/after...;後
+these days;このごろ
+for... weeks;
+by (means of transportation)/with (a tool);で
+how/by what means;どうやって
+which;どちら／どっち
+how much/how long;どのぐらい
+...years;年
+right;右
+left;左
+front;前
+back;後ろ
+inside;中
+on;上
+under;下
+near/nearby;そば
+next;隣
+between;間
+Good morning;おはよう
+Good afternoon;こんいちは
+Good evening;こんばんは
+Good-bye;さよなら
+Good night;お休みなさい
+Thank you;ありがとぅ
+Excuse me/I'm sorry;すみません
+No/Not at all;いいえ
+I'll go and come back;いってきます
+Please go and come back;いってらっしゃい
+I'm home;ただいま
+Welcome home;おかえりなさい
+Thank you for the meal (before eating);いただきます
+Thank you for the meal (after eating);ごちそうさまでした
+How do you do?;はじめまして
+Nice to meet you;どうぞよろしく
+#
