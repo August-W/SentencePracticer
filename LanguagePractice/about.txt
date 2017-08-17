@@ -15,6 +15,6 @@ expensive/high;高い
 # 
 *OTHERS 
 um...;あの。。。 
-yes; 
+yes;はい 
 P.M.;午後 
 #
