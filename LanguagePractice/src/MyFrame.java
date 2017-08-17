@@ -66,7 +66,7 @@ public class MyFrame extends JFrame implements ActionListener{
 		textArea.setLineWrap(true);
 		textArea.setWrapStyleWord(true);
 		add(textArea, BorderLayout.PAGE_END);
-		setMinimumSize(new Dimension(800, 800));
+		setMinimumSize(new Dimension(800, 900));
 		setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		setVisible(true);
 	}
@@ -108,11 +108,16 @@ public class MyFrame extends JFrame implements ActionListener{
 				sb4.setActionCommand("ajsettings");
 				sb4.addActionListener(this);
 				menuBar.add(sb4);
-				JButton sb5 = new JButton("Others");
+				JButton sb5 = new JButton("Grammer Structures");
 				sb5.setMnemonic(KeyEvent.VK_E);
-				sb5.setActionCommand("osettings");
+				sb5.setActionCommand("gjsettings");
 				sb5.addActionListener(this);
 				menuBar.add(sb5);
+				JButton sb6 = new JButton("Others");
+				sb6.setMnemonic(KeyEvent.VK_E);
+				sb6.setActionCommand("osettings");
+				sb6.addActionListener(this);
+				menuBar.add(sb6);
 				setJMenuBar(menuBar);
 	        }		
 		}
@@ -149,6 +154,15 @@ public class MyFrame extends JFrame implements ActionListener{
 			int s = Integer.parseInt((String) JOptionPane.showInputDialog(frame,"Choose how many adjectives/sentence you want (Default is 1):","Customized Dialog",JOptionPane.PLAIN_MESSAGE,new ImageIcon(),possibilities,"1"));
 			if (s>0) {
 			    mainGui.setAdjectiveLength(s);
+			}
+			return;
+		}
+		else if("gsettings".equals(e.getActionCommand())){
+			Object[] possibilities = {"1", "2", "3", "4", "5"};
+			JFrame frame = new JFrame();
+			int s = Integer.parseInt((String) JOptionPane.showInputDialog(frame,"Choose how many grammar structures/sentence you want (Default is 1):","Customized Dialog",JOptionPane.PLAIN_MESSAGE,new ImageIcon(),possibilities,"1"));
+			if (s>0) {
+			    mainGui.setGrammarStructureLength(s);
 			}
 			return;
 		}

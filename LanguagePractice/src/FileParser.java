@@ -6,11 +6,12 @@ import java.nio.charset.StandardCharsets;
 import java.util.LinkedList;
 
 public class FileParser {
-	private static String[] type = {"NOUNS", "VERBS", "ADVERBS", "ADJECTIVES", "OTHERS"}; //For checking the categories in the Dictionary file
+	private static String[] type = {"NOUNS", "VERBS", "ADVERBS", "ADJECTIVES", "GRAMMARSTRUCTURES", "OTHERS"}; //For checking the categories in the Dictionary file
 	private static LinkedList<String> nouns = new LinkedList<String>(); //These hold all the word;translation pairs in each category
 	private static LinkedList<String> verbs = new LinkedList<String>();
 	private static LinkedList<String> adverbs = new LinkedList<String>();
 	private static LinkedList<String> adjectives = new LinkedList<String>();
+	private static LinkedList<String> grammarStructures = new LinkedList<String>();
 	private static LinkedList<String> others = new LinkedList<String>();
 	private static String line;
 	
@@ -35,14 +36,15 @@ public class FileParser {
 				return words; //this is the base case per-category 
 			}
 			else if(line.charAt(0)=='*'){//category title
-		    	   for(int i=0; i<5; i++){
+		    	   for(int i=0; i<6; i++){
 		    		   if(line.substring(1, line.length()).equals(type[i])){
 		    			   switch(i){//recursively call this function for each category
-			    		   	case 0:  System.out.println("nouns"); nouns=createList(theBr);
-			    		   	case 1:  System.out.println("verbs"); verbs=createList(theBr);
-			    		   	case 2:  System.out.println("adverbs"); adverbs=createList(theBr);
-			    		   	case 3:  System.out.println("adjectives"); adjectives=createList(theBr);
-			    		   	case 4:  System.out.println("others"); others=createList(theBr);
+			    		   	case 0:  nouns=createList(theBr);
+			    		   	case 1:  verbs=createList(theBr);
+			    		   	case 2:  adverbs=createList(theBr);
+			    		   	case 3:  adjectives=createList(theBr);
+			    		   	case 4:  grammarStructures=createList(theBr);
+			    		   	case 5:  others=createList(theBr);
 			    		   }
 			    	   }
 		    	   }
@@ -68,6 +70,10 @@ public class FileParser {
 	
 	public static LinkedList<String> getAdjectives(){
 		return adjectives;
+	}
+	
+	public static LinkedList<String> getGrammarStructures(){
+		return grammarStructures;
 	}
 	
 	public static LinkedList<String> getOthers(){

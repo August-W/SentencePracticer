@@ -17,12 +17,14 @@ public class MainGui extends JPanel implements ActionListener {
 	private static LinkedList<String> verbs = new LinkedList<String>();
 	private static LinkedList<String> adverbs = new LinkedList<String>();
 	private static LinkedList<String> adjectives = new LinkedList<String>();
+	private static LinkedList<String> grammarStructures = new LinkedList<String>();
 	private static LinkedList<String> others = new LinkedList<String>();
 	private static String finish;
 	private int rNounLength = 1;
 	private int rVerbLength = 1;
 	private int rAdverbLength = 1;
 	private int rAdjectiveLength = 1;
+	private int rGrammarStructureLength = 1;
 	private int rOtherLength = 1;
 	
 	public MainGui(String thePath){//The Gui for the main stuff (after the user has selected a dictionary file)
@@ -45,6 +47,7 @@ public class MainGui extends JPanel implements ActionListener {
 		verbs=FileParser.getVerbs();
 		adverbs=FileParser.getAdverbs();
 		adjectives=FileParser.getAdjectives();
+		grammarStructures=FileParser.getGrammarStructures();
 		others=FileParser.getOthers();
 		setVisible(true);
 	}
@@ -74,6 +77,9 @@ public class MainGui extends JPanel implements ActionListener {
 			finish+=f[0];
 			ftrans+=f[1];
 			f=randoms(adjectives,rAdjectiveLength);
+			finish+=f[0];
+			ftrans+=f[1];
+			f=randoms(grammarStructures,rGrammarStructureLength);
 			finish+=f[0];
 			ftrans+=f[1];
 			f=randoms(others,rOtherLength);
@@ -109,6 +115,10 @@ public class MainGui extends JPanel implements ActionListener {
 	
 	public void setAdjectiveLength(int n){
 		rAdjectiveLength=n;
+	}
+	
+	public void setGrammarStructureLength(int n){
+		rGrammarStructureLength=n;
 	}
 	
 	public void setOtherLength(int n){
