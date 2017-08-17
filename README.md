@@ -20,6 +20,6 @@ expensive/high;高い
 <h7>#</h7> 
 *OTHERS   
 um...;あの。。。   
-yes;   
+yes;はい   
 P.M.;午後   
 <h7>#</h7>  
