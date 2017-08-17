@@ -7,7 +7,7 @@ You can create your own "Dictionary" file for this program. It must be a text fi
 *NOUNS  
 student;学生   
 language;語  
-<h3>#</h3>  
+<body>#</body>  
 *VERBS   
 to go;行く   
 &#;  
