@@ -4,7 +4,7 @@ This "SentencePracticer" is a tool for language learning. This is a Java program
 
 You can create your own "Dictionary" file for this program. It must be a text file (.txt) encoded in UTF-8, and each line must contain an English word and its translation, separated with ";". The words must be categorized as "*NOUNS", "*VERBS", "*ADJECTIVES", "*ADVERBS", and "*OTHERS". The category headers take up one line, followed by a list of word;translation pairs. After the last word;translation pair, end the category's list with a line containing "#". Here is an example:
 
-*NOUNS 
+*NOUNS
 student;学生 
 language;語 
 # 
