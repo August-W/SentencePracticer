@@ -7,19 +7,19 @@ You can create your own "Dictionary" file for this program. It must be a text fi
 *NOUNS  
 student;学生   
 language;語  
-<body>#</body>  
+<body>#</body><br>  
 *VERBS   
 to go;行く   
-&#;  
+<body>#</body><br>  
 *ADVERBS   
 usually;大抵   
-&#;  
+<body>#</body><br>  
 *ADJECTIVES   
 delicious;おいしい   
 expensive/high;高い   
-&#;  
+<body>#</body><br>  
 *OTHERS   
 um...;あの。。。   
 yes;   
 P.M.;午後   
-&#;  
+<body>#</body>  
